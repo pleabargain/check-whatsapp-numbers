@@ -1,0 +1,39 @@
+{
+"people": [
+  {
+    "name": "Khalid Mansoor",
+    "phone": "0501234567",
+    "location": "Abu Dhabi",
+    "image": "https://mediacdn.fakeurl.com/profile/1234/pic-1234.jpg",
+    "description": "Hello, I am Khalid, a passionate travel consultant based in Abu Dhabi. I have been helping people plan their dream vacations for over 10 years. My love for travel drives me to find the best experiences and hidden gems around the world. Let's explore your next adventure together!"
+  },
+  {
+    "name": "Layla Al Hassani",
+    "phone": "0559876543",
+    "location": "Dubai",
+    "image": "https://mediacdn.fakeurl.com/profile/5678/pic-5678.jpg",
+    "description": "Hi! My name is Layla, and I am based in Dubai. I specialize in luxury and adventure travel, and I’m excited to help you discover the best that the world has to offer. With 7 years in the industry, my goal is to create unforgettable memories for my clients."
+  },
+  {
+    "name": "Omar Saleh",
+    "phone": "0564567890",
+    "location": "Sharjah",
+    "image": "https://mediacdn.fakeurl.com/profile/9101/pic-9101.jpg",
+    "description": "Greetings! I'm Omar, and I'm here to provide you with personalized travel solutions. Whether you're looking for a quiet getaway or a full-on adventure, I can make it happen. Let's make your travel dreams a reality!"
+  },
+  {
+    "name": "Huda Nasser",
+    "phone": "0523456789",
+    "location": "Al Ain",
+    "image": "https://mediacdn.fakeurl.com/profile/1122/pic-1122.jpg",
+    "description": "Welcome! I’m Huda from Al Ain, and I have been a travel consultant for the past 8 years. My mission is to ensure every journey is an experience to remember. I love creating tailored trips, so let me help you craft your next perfect holiday!"
+  },
+  {
+    "name": "Nour El-Din",
+    "phone": "0582345678",
+    "location": "Ras Al Khaimah",
+    "image": "https://mediacdn.fakeurl.com/profile/3344/pic-3344.jpg",
+    "description": "Hi there! I'm Nour, based in Ras Al Khaimah. Traveling is my passion, and helping others experience the beauty of the world is my calling. I would love to be your travel guide on your next adventure!"
+  }
+  ]
+}
